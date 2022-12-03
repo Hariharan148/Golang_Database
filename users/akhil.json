@@ -1,0 +1,12 @@
+{
+	"Name": "akhil",
+	"Age": 29,
+	"Contact": "23344333",
+	"Company": "Facebook",
+	"Address": {
+		"City": "bangalore",
+		"State": "karnataka",
+		"Country": "india",
+		"Pincode": 410013
+	}
+}

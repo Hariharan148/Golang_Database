@@ -1,0 +1,12 @@
+{
+	"Name": "Noel",
+	"Age": 25,
+	"Contact": "23344333",
+	"Company": "Google",
+	"Address": {
+		"City": "san francisco",
+		"State": "california",
+		"Country": "USA",
+		"Pincode": 410013
+	}
+}

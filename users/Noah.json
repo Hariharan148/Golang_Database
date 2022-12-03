@@ -1,0 +1,12 @@
+{
+	"Name": "Noah",
+	"Age": 32,
+	"Contact": "23344333",
+	"Company": "Youtube",
+	"Address": {
+		"City": "bangalore",
+		"State": "karnataka",
+		"Country": "india",
+		"Pincode": 410013
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "Hari",
+	"Age": 23,
+	"Contact": "23344333",
+	"Company": "Webilicious",
+	"Address": {
+		"City": "bangalore",
+		"State": "karnataka",
+		"Country": "india",
+		"Pincode": 410013
+	}
+}
